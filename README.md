@@ -2,7 +2,7 @@
 
 The jupyter notebooks in this repository contain my solutions to assignments for the graduate course CISC 873 at Queens University. Each assignment was given as a Kaggle commetition. The general organization of all notebooks is summarized below along with the content of each notebook.
 
-# General Organization
+## General Organization
 
 * Problem Formulation
 * Trial 1
@@ -14,7 +14,7 @@ The jupyter notebooks in this repository contain my solutions to assignments for
     * reason for chnage
     * .................
 
-# Summary of Content
+## Summary of Content
 
 `Speed_Dating_Prediciton.ipynb`
 The goal of this notebook is to examine both categorial and continuous speed dateing information to make predictions of the success of the date. The notebook contains sklearn pipelines which preprocess and execute hyper parameter tuning of both the XGBoost and Adaboost Models. 
